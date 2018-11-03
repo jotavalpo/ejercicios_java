@@ -8,7 +8,8 @@ public class Auto {
     boolean bFull;
     String sTransmision;
     int iPuertas;
-    
+
+    //Método despliegue variables    
     public void MostrarCaracteristicas(){
         System.out.println("Modelo: " +sModelo);
         System.out.println("Año: " + iAnho);
